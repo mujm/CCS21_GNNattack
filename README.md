@@ -87,4 +87,4 @@ Note:  `--method` : the attack method to generate training dataset for the detec
 
 ## Defend Adversarial Attack
 
-please refer to the origin paper and code [low-rank](https://github.com/DSE-MSU/DeepRobust)
+please refer to the origin paper and code of [low-rank](https://github.com/DSE-MSU/DeepRobust)
